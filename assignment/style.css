@@ -14,7 +14,14 @@ footer {
     color: hotpink;
 }
 /* Align the h1 containing your name in the center of the header*/
-
+h1 {
+    text-align: center;
+}
 /* Put a border around your image */
-
+p {
+    color: darkolivegreen;
+    font-style: italic;
+    text-align: center;
+    font-size: 100%;
+}
 /* Change the font-family of your list */
