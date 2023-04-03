@@ -6,7 +6,13 @@ body {
     margin: 10%
 }
 /* Make the header and footer a different color from the background */
-
+header {
+    color: darkred;
+    font-size: 150%;
+}
+footer {
+    color: hotpink;
+}
 /* Align the h1 containing your name in the center of the header*/
 
 /* Put a border around your image */
