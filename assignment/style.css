@@ -25,3 +25,14 @@ p {
     font-size: 100%;
 }
 /* Change the font-family of your list */
+img {
+    max-width: 60%;
+    margin-left: 20%;
+    margin-right: auto;
+    height: auto;
+    border: 5px solid black;
+}
+
+ul {
+    text-align: center;
+}
