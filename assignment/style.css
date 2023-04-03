@@ -1,5 +1,10 @@
 /* Give your page a fun background color */
-
+body {
+    background-image: linear-gradient(to right, dimgrey, white);
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10%
+}
 /* Make the header and footer a different color from the background */
 
 /* Align the h1 containing your name in the center of the header*/
